@@ -1,6 +1,6 @@
 {
   "name": "image-generators-level",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Armağan's Image Generators: LEVEL",
   "main": "index.js",
   "scripts": {

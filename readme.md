@@ -5,11 +5,13 @@
 ## Preview
 - Automatically **blurs** the background image.
 - **Fast:** Small (350x132) and async.
-- Default preview
+- Default preview<br>
 ![Default Preview](https://i.imgur.com/LtI4YmK.png)
-- Accent color based on avatar image
+
+- Accent color based on avatar image<br>
 ![Image changes accent color](https://i.imgur.com/J60vZei.png)
-- Custom background image
+
+- Custom background image<br>
 ![Custom background image](https://i.imgur.com/amWRxZ3.png)
 
 ## Basic Usage
