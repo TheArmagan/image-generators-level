@@ -1,0 +1,35 @@
+{
+  "name": "image-generators-level",
+  "version": "1.0.0",
+  "description": "Armağan's Image Generators: LEVEL",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheArmagan/image-generators-level.git"
+  },
+  "keywords": [
+    "discord",
+    "image",
+    "generator",
+    "level",
+    "canvas"
+  ],
+  "author": "Kıraç Armağan Önal",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/TheArmagan/image-generators-level/issues"
+  },
+  "homepage": "https://github.com/TheArmagan/image-generators-level#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "chillout": "^5.0.0",
+    "fast-average-color-node": "^1.0.3",
+    "stuffs": "^0.1.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
