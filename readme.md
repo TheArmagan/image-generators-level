@@ -42,3 +42,5 @@ const drawLevelImage = require("image-generators-level");
   message.channel.send(new MessageAttachment(image, "igl.png"));
 })();
 ```
+
+Created by [Kıraç Armağan Önal](http://thearmagan.github.io)
